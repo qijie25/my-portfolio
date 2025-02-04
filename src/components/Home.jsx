@@ -10,8 +10,8 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>I aspire to be a Full Stack Developer</h2>
                 <p className='text-gray-500 py-4 max-w-md'>I have 2 years of experience building and designing software.
-                    Currently, I love to work on web application using technologies
-                    such as HTML, JS, Tailwind, React, Node.js and Postgres.
+                    Currently, I love to work on web application using technologies such as HTML, Node.js, CSS, Postgres and MySQL. 
+                    I started learning and using React and Tailwind during my free time. 
                 </p>
                 <div>
                     <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex item-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
