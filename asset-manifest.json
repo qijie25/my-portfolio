@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.8efaf73f.css",
-    "main.js": "/my-portfolio/static/js/main.043f66a8.js",
+    "main.css": "/my-portfolio/static/css/main.e6e90baa.css",
+    "main.js": "/my-portfolio/static/js/main.9a232baf.js",
     "static/media/heroImage.png": "/my-portfolio/static/media/heroImage.73d3c62a2295191c4fd3.png",
     "static/media/ecommerceManagement.jpg": "/my-portfolio/static/media/ecommerceManagement.a03f69943b2ba94aac78.jpg",
-    "static/media/landingPage.jpg": "/my-portfolio/static/media/landingPage.204f7925a1440263855d.jpg",
+    "static/media/animeWebsite.jpg": "/my-portfolio/static/media/animeWebsite.9ac27315615531704fb0.jpg",
     "static/media/rockPaperScissors.jpg": "/my-portfolio/static/media/rockPaperScissors.948f91eaf89d7eb480dd.jpg",
     "static/media/etchASketch.jpg": "/my-portfolio/static/media/etchASketch.4cefc976e35edffb9d02.jpg",
     "static/media/postgresql.png": "/my-portfolio/static/media/postgresql.a7ec8f3d5c5471139c6e.png",
@@ -20,11 +20,11 @@
     "static/media/java.png": "/my-portfolio/static/media/java.7c5dd1fa8b115dbedc80.png",
     "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio/index.html",
-    "main.8efaf73f.css.map": "/my-portfolio/static/css/main.8efaf73f.css.map",
-    "main.043f66a8.js.map": "/my-portfolio/static/js/main.043f66a8.js.map"
+    "main.e6e90baa.css.map": "/my-portfolio/static/css/main.e6e90baa.css.map",
+    "main.9a232baf.js.map": "/my-portfolio/static/js/main.9a232baf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8efaf73f.css",
-    "static/js/main.043f66a8.js"
+    "static/css/main.e6e90baa.css",
+    "static/js/main.9a232baf.js"
   ]
 }
