@@ -42,7 +42,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: "/Resume_LEOW_QI_JIE.pdf",
+            href: "Resume_LEOW_QI_JIE.pdf",
             style: "rounded-tr-md",
             download: true,
         },
