@@ -10,6 +10,7 @@ import postgresql from '../assets/postgresql.png'
 import java from '../assets/java.png'
 import python from '../assets/python.png'
 import mysql from '../assets/mysql.png'
+import typescript from "../assets/typescript.png"
 
 const Experience = () => {
 
@@ -74,7 +75,7 @@ const Experience = () => {
         {
             id: 1,
             src: tailwind,
-            title: 'Tailwind',
+            title: 'Tailwind CSS',
             style: 'shadow-blue-500'
         },
         {
@@ -83,6 +84,12 @@ const Experience = () => {
             title: 'React JS',
             style: 'shadow-blue-500'
         },
+        {
+            id: 3,
+            src: typescript,
+            title: 'TypeScript',
+            style: 'shadow-blue-500'
+        }
     ]
 
   return (

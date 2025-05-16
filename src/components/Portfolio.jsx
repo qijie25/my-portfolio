@@ -1,7 +1,7 @@
 import React from 'react'
 import calculator from '../assets/portfolio/calculatorApp.jpg'
 import rockPaperScissors from '../assets/portfolio/rockPaperScissors.jpg'
-import landingPage from '../assets/portfolio/landingPage.jpg'
+import animeWebsite from '../assets/portfolio/animeWebsite.jpg'
 import ecommerceManagement from '../assets/portfolio/ecommerceManagement.jpg'
 import etchASketch from '../assets/portfolio/etchASketch.jpg'
 
@@ -34,9 +34,9 @@ const Portfolio = () => {
         },
         {
             id: 5,
-            src: landingPage,
-            demo: "https://qijie25.github.io/odin-landing-page/",
-            code: "https://github.com/qijie25/odin-landing-page"
+            src: animeWebsite,
+            demo: "https://anime-website-52jl.onrender.com",
+            code: "https://github.com/qijie25/anime-website"
         },
     ]
   return (
